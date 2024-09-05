@@ -2,7 +2,9 @@
 `Install pygame using pip`
 #### Run using
 `python BRYCE.fruit.catch.py`
+
 or
+
 `python3 BRYCE.fruit.catch.py`
 
 Controls: 
