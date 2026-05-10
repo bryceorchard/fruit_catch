@@ -1,12 +1,22 @@
 # Fruit Catch
-`Install pygame using pip`
-#### Run using
-`python BRYCE.fruit.catch.py`
 
-or
+Simple game of fruit catch written with pygame
 
-`python3 BRYCE.fruit.catch.py`
-
-Controls: 
-- move basket left: w
+## Controls
+- move basket left: a
 - move basket right: d
+
+## Screenshots
+![game_preview](images/game_preview.png)
+![end_screen](images/end_screen.png)
+
+## Setup
+```bash
+python3.12 -m venv .fruit_catch
+source .fruit_catch/bin/activate
+pip install -r requirements.txt
+```
+## Running
+```bash
+python src/fruit_catch.py
+```
